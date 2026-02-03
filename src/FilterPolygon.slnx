@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FilterPolygon.Core/FilterPolygon.Core.csproj" />
+  <Project Path="FilterPolygon.Tester/FilterPolygon.Tester.csproj" Id="47238b9b-e61b-444e-8340-e1eea81c8a11" />
+</Solution>
